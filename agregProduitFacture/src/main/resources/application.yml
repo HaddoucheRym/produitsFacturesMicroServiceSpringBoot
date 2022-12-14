@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+environnement:
+  domaineProduit: http://localhost:8080/produits
+  domaineFacture: http://localhost:8081/factures
